@@ -18,3 +18,5 @@ Hz = 1/sec
 kHz = 1000 * Hz
 MHz = 1000 * kHz
 GHz = 1000 * MHz
+
+ppm = 1/1e6
