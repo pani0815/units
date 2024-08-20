@@ -19,7 +19,7 @@ setup(
     'Intended Audience :: Developers',      # Define that your audience are developers
     'Topic :: Software Development :: Build Tools',
 
-    'License :: OSI Approved :: GNU GENERAL PUBLIC LICENSE',   # Again, pick a license
+    'License: GPL version 3, excluding DRM provisions',   # Again, pick a license
 
     'Programming Language :: Python :: 3.11',
   ],
